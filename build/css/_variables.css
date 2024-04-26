@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 Apr 2024 20:11:21 GMT
+ * Generated on Fri, 26 Apr 2024 13:44:43 GMT
  */
 
 :root {
@@ -11,6 +11,7 @@
   --color-app-600: #4b5563;
   --color-app-800: #1f2937;
   --color-app-900: #111827;
+  --color-app-app: #e20000;
   --color-app-emerald-700: #047857;
   --color-app-emerald-900: #064e3b;
 }

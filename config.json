@@ -2,6 +2,7 @@
   "source": [
     "input/**/*.json"
   ],
+  
   "platforms": {
     "css": {
       "transformGroup": "css",
